@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2077acdc.css",
+    "main.js": "/static/js/main.6a584221.js",
+    "static/js/787.ef213cbd.chunk.js": "/static/js/787.ef213cbd.chunk.js",
+    "static/media/www_ghostchu_com.png": "/static/media/www_ghostchu_com.7704926c610800d630f9.png",
+    "static/media/suzuame_moe.png": "/static/media/suzuame_moe.0868ea8374e8f94d1988.png",
+    "static/media/blog_tomys_top.png": "/static/media/blog_tomys_top.a6627066951622c1e275.png",
+    "static/media/impco_cn.png": "/static/media/impco_cn.0f263cf2fe1881439910.png",
+    "static/media/orilight_top.png": "/static/media/orilight_top.8cc81622f040c635c3f9.png",
+    "static/media/fangkaipeng_com.png": "/static/media/fangkaipeng_com.4bbcccc828dc9b6472dd.png",
+    "static/media/blog_suiyil_cn.png": "/static/media/blog_suiyil_cn.bb35b376c79a3654bd36.png",
+    "static/media/kohaku_cat.png": "/static/media/kohaku_cat.a1ce4dd7bc57e3c47f59.png",
+    "static/media/blog.scholarcn.com.png": "/static/media/blog.scholarcn.com.8b7d3e720493f75e0894.png",
+    "static/media/icespite_top.png": "/static/media/icespite_top.73d05bb18413f8b9db06.png",
+    "static/media/argon_demo_solstice23_top.png": "/static/media/argon_demo_solstice23_top.41111c0757e3cc5b7d60.png",
+    "static/media/solstice23_top.png": "/static/media/solstice23_top.619d4147fbade9d82c9a.png",
+    "static/media/peers_cloud.png": "/static/media/peers_cloud.0615190d8b92c1261acb.png",
+    "static/media/ygxz_in.png": "/static/media/ygxz_in.e45ebfa5b3a39aa82874.png",
+    "static/media/blog_tomys_top.png?width=640&height=360&quality=100": "/static/media/blog_tomys_top.a66b4f86afefb7137b2c.png",
+    "static/media/impco_cn.png?width=640&height=360&quality=100": "/static/media/impco_cn.f251789a7e4673c9002c.png",
+    "static/media/orilight_top.png?width=640&height=360&quality=100": "/static/media/orilight_top.604bc32c0629e3b6045e.png",
+    "static/media/www_ghostchu_com.png?width=640&height=360&quality=100": "/static/media/www_ghostchu_com.b1e46501f0e495397e7a.png",
+    "static/media/icespite_top.png?width=640&height=360&quality=100": "/static/media/icespite_top.5cc64cfa9f4f2ddd6d7a.png",
+    "static/media/suzuame_moe.png?width=640&height=360&quality=100": "/static/media/suzuame_moe.ff31e02a47bc4d1a30f4.png",
+    "static/media/fangkaipeng_com.png?width=640&height=360&quality=100": "/static/media/fangkaipeng_com.94ad678c290a47f6aaf1.png",
+    "static/media/kohaku_cat.png?width=640&height=360&quality=100": "/static/media/kohaku_cat.f4c1980b3a92e0054f48.png",
+    "static/media/blog_suiyil_cn.png?width=640&height=360&quality=100": "/static/media/blog_suiyil_cn.d677fe94da6247f1e266.png",
+    "static/media/solstice23_top.png?width=640&height=360&quality=100": "/static/media/solstice23_top.8d6a955398b1777e02c2.png",
+    "static/media/blog.scholarcn.com.png?width=640&height=360&quality=100": "/static/media/blog.scholarcn.com.c82c07838d349931b33c.png",
+    "static/media/ygxz_in.png?width=640&height=360&quality=100": "/static/media/ygxz_in.33a38b8a9e3b2dc32487.png",
+    "static/media/argon_demo_solstice23_top.png?width=640&height=360&quality=100": "/static/media/argon_demo_solstice23_top.8c866aa79e8fe5acea15.png",
+    "static/media/peers_cloud.png?width=640&height=360&quality=100": "/static/media/peers_cloud.5e2c6c75629cd1b1fd94.png",
+    "index.html": "/index.html",
+    "main.2077acdc.css.map": "/static/css/main.2077acdc.css.map",
+    "main.6a584221.js.map": "/static/js/main.6a584221.js.map",
+    "787.ef213cbd.chunk.js.map": "/static/js/787.ef213cbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2077acdc.css",
+    "static/js/main.6a584221.js"
+  ]
+}
